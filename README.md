@@ -1,4 +1,8 @@
 hackingweek-crypto4
 ===================
 
-HackingWeek - RSA challenge (crypto challenge 4) - Common factors solution
+Made for the RSA challenge (crypto 4 challenge) of the Hackingweek of 2014.
+
+Crack RSA cypher using common factors attack.
+
+Mathematical craking functions plus challenge-tailored functions.
